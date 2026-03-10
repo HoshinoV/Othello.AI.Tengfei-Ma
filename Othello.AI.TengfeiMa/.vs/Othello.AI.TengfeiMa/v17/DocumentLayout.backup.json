@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\A Purdue\\SP 26\\CGT 390JK\\Assignment 4 - NegaMax Othello\\head2head_othello\\Othello.AI.TengfeiMa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDABD2A9-DDDF-4AFA-BE4D-FE3EBDB5E353}|Othello.AI.TengfeiMa.csproj|d:\\a purdue\\sp 26\\cgt 390jk\\assignment 4 - negamax othello\\head2head_othello\\othello.ai.tengfeima\\tengfeima.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDABD2A9-DDDF-4AFA-BE4D-FE3EBDB5E353}|Othello.AI.TengfeiMa.csproj|solutionrelative:tengfeima.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TengfeiMa.cs",
+              "DocumentMoniker": "D:\\A Purdue\\SP 26\\CGT 390JK\\Assignment 4 - NegaMax Othello\\head2head_othello\\Othello.AI.TengfeiMa\\TengfeiMa.cs",
+              "RelativeDocumentMoniker": "TengfeiMa.cs",
+              "ToolTip": "D:\\A Purdue\\SP 26\\CGT 390JK\\Assignment 4 - NegaMax Othello\\head2head_othello\\Othello.AI.TengfeiMa\\TengfeiMa.cs",
+              "RelativeToolTip": "TengfeiMa.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAowKcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T01:26:50.961Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
