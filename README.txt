@@ -1,5 +1,5 @@
 Please refer to Othello.AI.TengfeiMa as my code.
-
+Repository Link: https://github.com/HoshinoV/Othello.AI.Tengfei-Ma
 
 
 I first tried the random AI that came with the project, but they were acting stupid because they kept giving the opponent chances to take corners. I looked at the code and realized that it is completely random and has no logic.
